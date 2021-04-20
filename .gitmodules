@@ -1,0 +1,15 @@
+[submodule "deps/liblsl"]
+	path = deps/liblsl
+	url = https://github.com/sccn/liblsl.git
+[submodule "catkin_ws/src/rosneuro_acquisition"]
+	path = catkin_ws/src/rosneuro_acquisition
+	url = https://github.com/cesare-montresor/rosneuro_acquisition.git
+[submodule "catkin_ws/src/rosneuro_acquisition_plugins"]
+	path = catkin_ws/src/rosneuro_acquisition_plugins
+	url = https://github.com/cesare-montresor/rosneuro_acquisition_plugins.git
+[submodule "catkin_ws/src/rosneuro_data"]
+	path = catkin_ws/src/rosneuro_data
+	url = https://github.com/cesare-montresor/rosneuro_data.git
+[submodule "catkin_ws/src/rosneuro_msgs"]
+	path = catkin_ws/src/rosneuro_msgs
+	url = https://github.com/cesare-montresor/rosneuro_msgs.git
