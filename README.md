@@ -1,3 +1,7 @@
+# Install 
+
+There is an Install.bat with a list of commands that need to be run in the terminal. 
+At this stage of development one cannot install.
 
 
 

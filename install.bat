@@ -1,5 +1,3 @@
-
-
 REM Install choco ( gracefully fail if fail, not a problem)
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 
@@ -21,3 +19,4 @@ REM WARNING: during this command windows may "force restart" ( 1 time for deskto
 REM After reboot, reopen roscmd.lnk as admin and restart the command.
 REM 
 choco upgrade ros-melodic-desktop_full -y --execution-timeout=0
+
