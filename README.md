@@ -57,6 +57,12 @@ vcpkg [search|install|...] cpp_lib
 
 
 ## catkin_make
+_Make sure to run catkin_make always from a propertly inizialized `roscmd.lnk`_
+```
+cd catkin_ws/
+catkin_make
+```
+
 
  
 
@@ -107,3 +113,4 @@ Creating a new **win10** git branch and/or tag seams the cleanset way to switch 
 # TODOs:
 - Find a better way to bootstrap roscmd (ex: to soruce correctly also devel/setup.bat).
 - Add Branch/Tag for for **win10** plugins.
+- Find out if catkin_make_isolated is possible.
