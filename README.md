@@ -10,7 +10,7 @@ https://github.com/ms-iot/vscode-ros
 ## 1. Setup ROS Env     
 Setup the ROS env on windows following the official instructions. It's easy for Kinetic, Melodic and Noetic.      
 _note: at the time of writing, I personally tested it on Melodic only._     
-http://wiki.ros.org/Installation/Windows._    
+http://wiki.ros.org/Installation/Windows    
 
 **WARNING:**    
 `Install.bat` is **an attempt** to automate setup, it **might** perform the correct actions.    
