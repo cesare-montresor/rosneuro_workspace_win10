@@ -1,5 +1,10 @@
 This repository it's an attemp to provide a starting point for anyone wanting to setup a ROSNeuro on Windows.
-     
+
+# Tools    
+
+Visual Studio Code for Windows 10 for ROS: 
+https://github.com/ms-iot/vscode-ros
+
 # Install    
 
 ## 1. Setup ROS Env     
